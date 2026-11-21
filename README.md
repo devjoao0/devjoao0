@@ -1,16 +1,4 @@
 
-<h2>👨🏻‍💻 João Dev</h2>
-
-<p><strong>Desenvolvedor em formação</strong></p>
-
-<p>
-  Olá! Sou João, estudante de programação e apaixonado por tecnologia.
-  Atualmente estou focado no desenvolvimento web, aprendendo HTML,
-  CSS e JavaScript e desenvolvendo projetos para colocar meus
-  conhecimentos em prática.
-</p>
-
----
 
 
 

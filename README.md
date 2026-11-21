@@ -1,34 +1,30 @@
 
----
+<h2>👨‍💻 João Dev</h2>
 
-<h1 align="center">Olá, eu sou João! 👋</h1>
+<p><strong>Desenvolvedor em formação</strong></p>
 
-<h3 align="center">💻 Desenvolvedor em aprendizado</h3>
-
-<p align="center">
-  Sempre buscando aprender, evoluir e transformar ideias em projetos.
+<p>
+  Olá! Sou João, estudante de programação e apaixonado por tecnologia.
+  Atualmente estou focado no desenvolvimento web, aprendendo HTML,
+  CSS e JavaScript e desenvolvendo projetos para colocar meus
+  conhecimentos em prática.
 </p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+### 👨🏻‍💻 Linguagens e Tecnologias
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </div>
 
----
 
-## 📊 Linguagens mais utilizadas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoao0&layout=compact&theme=radical&hide_border=true&langs_count=5" />
-</div>
-
----
+### 📊 Estatísticas
 
 <div align="center">
-  <h3>✨ Construindo meu futuro como desenvolvedor!</h3>
-  <p>Estudando, praticando e evoluindo todos os dias. 💙</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoao0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoao0&layout=compact&theme=radical&hide_border=true"/>
 </div>
+
 
